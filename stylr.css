@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#im1{
+    border-radius: 50%;
+    height: 500px;
+     width:500px;
+}
+#home,#nothing{
+    background: linear-gradient(cyan 10%, purple 100%);
+}
